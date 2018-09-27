@@ -1,0 +1,3 @@
+The question is :-
+"The data will include integer values and an integer sum
+From yhe integer values, we have to find if sum of any two numbers in that input(array) is equal to the integer sum which has already been given"
